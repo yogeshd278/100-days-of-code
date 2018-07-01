@@ -1,6 +1,6 @@
 # Problems for the practice
 
-## These are the problems where you can get the idea what to code today. Below are those problems, pick anyone and submit it as the code for today.
+## These are the problems where you can get the idea what to code today. Below are the problems, pick anyone and submit it as the code for today.
 
 ## **Problems:**
 
