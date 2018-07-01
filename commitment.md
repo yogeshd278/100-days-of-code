@@ -3,7 +3,7 @@
 ## I am taking this challenge publicly and I take auth that I would be sharing all of my code and updates with you for next 100 days.
 
 ## Links to my public announcement 
-1. [Twitter Commitment](https://twitter.com/chetanhere/status/1013390294128185344)
+1. [Twitter Commitment](https://twitter.com/chetanhere/status/1013393655296610304)
 
 2. [LinkedIn Commitment](https://www.linkedin.com/feed/update/urn:li:activity:6419136040908492800)
 
