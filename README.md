@@ -8,5 +8,6 @@
 
 ## Useful links
 
-** 1. [Daily code ideas] (https://github.com/chetanhere/100-days-of-code/tree/master/code)
-** 2. [General problems to pick] (https://github.com/chetanhere/100-days-of-code/blob/master/practice-set.md)
+1. [Daily code ideas] (https://github.com/chetanhere/100-days-of-code/tree/master/code)
+
+2. [General problems to pick] (https://github.com/chetanhere/100-days-of-code/blob/master/practice-set.md)
