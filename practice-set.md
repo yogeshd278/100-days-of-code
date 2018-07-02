@@ -8,3 +8,4 @@
 ### 2. Implement a Queue and also implement all the basic properties of Queue by using Array.
 ### 3. Implement a Stack and also implement all the basic properties of Stack by using Array.
 ### 4. Implement a Stack by using Array and then implement Queue by using Stack.
+### 5. Take an "iNPut SENtenCe" and retrun an "Output Sentence" in Camle Case as result.
