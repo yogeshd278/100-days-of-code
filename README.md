@@ -11,3 +11,7 @@
 1. [Daily code ideas](https://github.com/chetanhere/100-days-of-code/tree/master/code)
 
 2. [General problems to pick](https://github.com/chetanhere/100-days-of-code/blob/master/practice-set.md)
+
+## Books
+1. [You don't know JS](https://github.com/chetanhere/You-Dont-Know-JS)
+2. [PDF Books](https://github.com/chetanhere/100-days-of-code/tree/master/books)
