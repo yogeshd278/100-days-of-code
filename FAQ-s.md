@@ -5,7 +5,7 @@ I am sharing the answer to not asked questions but these questions comes to mind
 ### Ans 1: The sole purpose of this challenge is to remove the fear of coding from everyone.
 
 ### Qs 2: Is there any fixed set of problems to work on?
-### Ans 2: No, there is no fixed set of problems. One can code anything as per her need and will. No, there is no limit of set amount of problems to be solved daily. You just need to code for an hour daily and then need to update that here in **Logs** file. And also announce that publicly.
+### Ans 2: No, there is no fixed set of problems. One can code anything as per her need and will. No, there is no limit of set amount of problems to be solved daily. You just need to code for an hour daily and then need to update that here in [Logs](https://github.com/chetanhere/100-days-of-code/blob/master/log.md) file. And also announce that publicly.
 
 ### Qs 3: I am not efficient in coding, do I need to start solving problems from the day 0?
 ### Ans 3: This challenge is designed for the non coders, so you can start with Hello World program and that would also be counted as valid submission. Then you can move to other small programs (like adding two numbers and all simple stuff).
